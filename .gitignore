@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# solidworks simulation files
+*.BD2
+*.BDF
+*.CWR
+*.ind
+*.jal
+*.lnz
+*.lup
+*.sin
+*.sle
+*.opm
